@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+    background-color: #fc5b6c;
+    color: white;
+}
+
+header h2{
+  padding-left: 1em;
+}
+
+.btnCon{
+    border: none;
+    background: #00ac9a;
+    color: white;
+    margin-top: 1.3em;
+}
+
+.modalContent{
+  
+}
+
+.btnAdd{
+    border: none;
+    background: #00ac9a;
+    color: white;
+    margin-top: 2em;
+}
+
+.x{
+  color: black;
+}
